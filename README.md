@@ -63,7 +63,7 @@ Use the downloaded `Mall_Customers.csv`.
 python -m venv venv
 
 # Activate on Windows
-.env\Scripts activate
+.\venv\scripts\activate
 
 # Activate on macOS/Linux
 source venv/bin/activate
